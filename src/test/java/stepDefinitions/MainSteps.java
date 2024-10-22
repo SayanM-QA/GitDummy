@@ -12,6 +12,7 @@ public class MainSteps {
 	public void user_is_on_net_banking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("User landed on NetBanking Page");
+		System.out.println("This is change 1 from GitDummy");
 	}
 	/*
 	 * @When("user login into application") public void
