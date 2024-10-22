@@ -79,6 +79,8 @@ public class MainSteps {
 	public void hitURL()
 	{
 		System.out.println("home page URL is hit");
+		System.out.println("This is final Commit into develop branch from GitDummy");
+
 	}
 
 
