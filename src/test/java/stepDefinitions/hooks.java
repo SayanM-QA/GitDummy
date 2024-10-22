@@ -15,6 +15,7 @@ public class hooks {
 	public void tearDown()
 	{
 		System.out.println("Clear the entries");
+		System.out.println("Another changes from GitStuff in Develop branch");
 	}
 	
 	@Before("@Mortagage")

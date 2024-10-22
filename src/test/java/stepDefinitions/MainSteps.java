@@ -31,6 +31,7 @@ public class MainSteps {
 	@When("^user login into application with (.+) and pasword (.+)$")
 	public void user_login_into_application_with_and_pasword(String username, String password) {
 		System.out.println(username+ "and Password is "+ password);
+		System.out.println("Changes from GitStuff in Develop branch");
 	}
 	
 	@Given("user is on Practice landing page")
